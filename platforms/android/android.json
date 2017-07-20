@@ -131,35 +131,35 @@
     },
     "installed_plugins": {
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.bassoarredamenti"
+            "PACKAGE_NAME": "com.bassoarredamenti.bassoarredamenti"
         }
     },
     "dependent_plugins": {},
